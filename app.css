@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.primera-animacion{
+    position: absolute;
+}
+.segunda-animacion{
+    position: absolute;
+}
+#letra-l{
+    left: 1px;
+}
+#letra-i{
+    left: 90px;
+}
+#letra-f{
+    left: 130px;
+}
+#letra-e{
+    left: 200px;
+}
+#letra-e-reves{
+    left: 200px;
+}
+#letra-f-reves{
+    left: 130px;
+}
+#letra-i-reves{
+    left: 80px;
+}
+#letra-l-reves{
+    left: 1px;
+}
