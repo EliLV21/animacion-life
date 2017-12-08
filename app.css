@@ -32,3 +32,8 @@ body{
 #letra-l-reves{
     left: 1px;
 }
+.letra-l-svg{
+    position: absolute;
+    bottom: 50%;
+    width: 20%;
+}
